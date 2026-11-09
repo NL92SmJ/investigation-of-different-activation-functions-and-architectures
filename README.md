@@ -1,7 +1,7 @@
 # investigation-of-different-activation-functions-and-architectures
 The goal of this expanded experiment was to investigate the combined impact of different neural network architectures and activation functions on the prediction quality in a regression task across two distinct datasets (Iris and Wine Quality).
 
-# Motivation & Expaction
+# Motivation & Expactation
 While learning machine learning and AI, tutorials often present architectures and activation functions in isolation, while systematic, empirical comparisons across a wide grid search are rare. The underlying theory of dense layers, gradient flow, and non-linear transformations is well-documented. My expectation for this deep-dive experiment was twofold:
 
 1.) Architecture matters: Structural shapes like Bottlenecks (08_Sanduhr) or Pyramids (06_Pyramidal) should handle feature compression and abstraction differently than flat or minimal networks (02_Klein).
